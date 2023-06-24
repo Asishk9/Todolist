@@ -10,3 +10,4 @@ Steps to run this website
 7. 4th column updated_at (timestamp, current_timestamp)
 8. then click on go your database and table is cretaed successfully
 you can change the servername , username, password in database.php file , according to your phpmyadmin server information.
+now you can run the index.php file on the server 127.0.0.1 
